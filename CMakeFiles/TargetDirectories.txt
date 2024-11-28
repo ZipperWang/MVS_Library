@@ -1,0 +1,4 @@
+/home/zipper/Documents/MVS_WORK/CMakeFiles/rebuild_cache.dir
+/home/zipper/Documents/MVS_WORK/CMakeFiles/main.dir
+/home/zipper/Documents/MVS_WORK/CMakeFiles/edit_cache.dir
+/home/zipper/Documents/MVS_WORK/CMakeFiles/MVS_WORK.dir

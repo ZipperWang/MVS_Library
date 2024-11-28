@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcamera.a  CMakeFiles/camera.dir/src/MVS_WORK.cpp.o
+/usr/bin/ranlib libcamera.a

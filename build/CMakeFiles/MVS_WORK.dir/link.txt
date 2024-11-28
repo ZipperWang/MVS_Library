@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zipper/Documents/ARMOR_DETECTED/libs/libMVS_WORK.a  CMakeFiles/MVS_WORK.dir/src/MVS_WORK.cpp.o
+/usr/bin/ranlib /home/zipper/Documents/ARMOR_DETECTED/libs/libMVS_WORK.a

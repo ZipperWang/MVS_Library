@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zipper/Documents/MVS_WORK/build",
+  "command": "/usr/bin/g++   -I/home/zipper/Documents/MVS_WORK/include -I/opt/MVS/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/zipper/Documents/MVS_WORK/main.cpp",
+  "file": "/home/zipper/Documents/MVS_WORK/main.cpp"
+},
+{
+  "directory": "/home/zipper/Documents/MVS_WORK/build",
+  "command": "/usr/bin/g++   -I/home/zipper/Documents/MVS_WORK/include -I/opt/MVS/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/MVS_WORK.cpp.o -c /home/zipper/Documents/MVS_WORK/src/MVS_WORK.cpp",
+  "file": "/home/zipper/Documents/MVS_WORK/src/MVS_WORK.cpp"
+},
+{
+  "directory": "/home/zipper/Documents/MVS_WORK/build",
+  "command": "/usr/bin/g++   -I/home/zipper/Documents/MVS_WORK/include -I/opt/MVS/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/MVS_WORK.dir/src/MVS_WORK.cpp.o -c /home/zipper/Documents/MVS_WORK/src/MVS_WORK.cpp",
+  "file": "/home/zipper/Documents/MVS_WORK/src/MVS_WORK.cpp"
+}
+]
